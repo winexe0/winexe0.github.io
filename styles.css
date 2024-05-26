@@ -179,8 +179,8 @@ body {
     font-size: 1.1rem;
   }
 img {
-    max-width: 50%;
-    max-height: 50%;
+    max-width: 25%;
+    max-height: 25%;
 }
 
 .portrait {
